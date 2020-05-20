@@ -1,4 +1,8 @@
 1. Read about git, branches, pull, push...
 2. Commit
 3. using smart git
+<<<<<<< HEAD
 4. branche Task b. second change
+=======
+4. Branche Task bb this is better to show how work two branches
+>>>>>>> origin/Task_bb
